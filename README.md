@@ -2,4 +2,4 @@
 
 ## Itroduction to Python
 Welcome to Python Programming
-![Hello ](image1.jpg)
+![Python Programming](python.jpg)
